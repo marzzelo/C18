@@ -1,0 +1,12 @@
+/*************************************************************************//** 
+ * Descripcion breve. Descripcion detallada.
+ * @author      Marcelo A. Valdéz
+ * @copyright   FAdeA - Córdoba
+ * @param[in]   x  	variable de entrada 
+ * @param[out]  z	variable out (byRef)
+ * @returns     Valor de retorno.
+ * @test        y = f(10);
+ * @code        codigo de prueba    @endcode
+ * @related     Class
+ ****************************************************************************/
+ 

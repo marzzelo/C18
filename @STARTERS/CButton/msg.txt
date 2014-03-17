@@ -1,0 +1,27 @@
+/** \mainpage My Personal Index Page
+ *
+ * \section intro_sec UartReader & UartWriter
+ *
+ \msc
+    app,ur[label="UartReader"],uw[label="UartWriter"],isr[label="ISR"];
+    app->ur [label="start"];
+    app->uw [label="start"];
+    isr box isr [label="RCIF"];
+    
+ 
+ 
+ 
+ 
+ \endmsc
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ */

@@ -1,0 +1,1 @@
+ init_pic_8722.d  init_pic_8722.p1:  init_pic_8722.c init_pic.h C:/MCC18/h/p18f8722.h p18f8722_defs.h p18fxxx_defs.h C:/MCC18/h/p18cxxx.h

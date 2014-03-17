@@ -1,0 +1,6 @@
+//single-packet example
+wait 20 ms
+"Hello World!"
+wait 0 ms
+//00
+
