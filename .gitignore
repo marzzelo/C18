@@ -22,5 +22,6 @@ doc/*.*
 *.jpg
 *.png
 *.rar
+*.SCC
 **/doc
 
